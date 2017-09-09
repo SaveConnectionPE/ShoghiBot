@@ -1,0 +1,37 @@
+#################################################
+#                   Commands                    #
+#################################################
+# Here you can disable and enable certain commands.
+# true = on, false = off.
+# #Default: true
+
+# Prints out random Chuck Norris Statments
+ChuckNorris: true
+
+# Allows the user to consult the 8Ball
+EightBall: true
+
+# Prints a random Minecraft Pocket Edition (v1.0.0) Splash. 
+MinecraftSplash: true
+
+# Allows the user to talk as ShoghiBot
+Say: true
+
+# Displays the user's coordinates.
+XYZ: true
+
+#################################################
+#                     Events                    #
+#################################################
+# Here you can disable and enable certain events.
+# true = on, false = off.
+# Default: true
+
+# Displays a message when player joins.
+PlayerJoinEvent: true
+
+# Displays a message when player leaves.
+PlayerQuitEvent: true
+
+# Displays a message when player dies.
+PlayerDeathEvent: true
